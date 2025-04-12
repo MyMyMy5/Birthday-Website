@@ -3,7 +3,7 @@ window.addEventListener('load', () => {
     Swal.fire({
         html: `
         <h2 style="margin-bottom: 1rem;">Do you want to play our beautiful song in the background?</h2>
-        <img src="Pictures/Hugging_Pic.jpg" alt="Hugging pic" style="max-width: 100%; margin: 0 auto; display: block;" />
+        <img src="./Pictures/Hugging_Pic.jpg" alt="Hugging pic" style="max-width: 100%; margin: 0 auto; display: block;" />
       `,
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
